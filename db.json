@@ -3,22 +3,22 @@
         {
             "id": 1,
             "title": "Spiegelei",
-            "type": SNACK,
-            "level": EASY,
+            "type": "SNACK",
+            "level": "EASY",
             "img": ""
         },
         {
             "id": 2,
             "title": "Muffin",
-            "type": DESSERT,
-            "level": MEDIUM,
+            "type": "DESSERT",
+            "level": "MEDIUM",
             "img": ""
         },
         {
             "id": 3,
             "title": "Pizza",
-            "type": MAIN,
-            "level": MEDIUM,
+            "type": "MAIN",
+            "level": "MEDIUM",
             "img": ""
         }
    ] 
