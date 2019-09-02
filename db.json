@@ -2,21 +2,33 @@
    "recipes": [
         {
             "id": 1,
-            "title": "Spiegelei",
+            "name": "Spiegelei",
             "course": "SNACK",
             "level": "EASY",
-            "img": ""
+            "img": "",
+            "ingredients": [
+                {
+                    "name": "Egg",
+                    "amount": 1.0,
+                    "unit": "PIECE"
+                }, 
+                {
+                    "name": "Butter",
+                    "amount": 1.0,
+                    "unit": "TABLESPOON"
+                }
+            ]
         },
         {
             "id": 2,
-            "title": "Muffin",
+            "name": "Muffin",
             "course": "DESSERT",
             "level": "MEDIUM",
             "img": ""
         },
         {
             "id": 3,
-            "title": "Pizza",
+            "name": "Pizza",
             "course": "MAIN",
             "level": "MEDIUM",
             "img": ""
