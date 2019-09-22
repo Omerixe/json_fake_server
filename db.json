@@ -25,14 +25,18 @@
             "name": "Muffin",
             "course": "DESSERT",
             "level": "MEDIUM",
-            "img": ""
+            "img": "",
+            "ingredients": [],
+            "steps": []
         },
         {
             "id": 3,
             "name": "Pizza",
             "course": "MAIN",
             "level": "MEDIUM",
-            "img": ""
+            "img": "",
+            "ingredients": [],
+            "steps": []
         }
    ] 
 
