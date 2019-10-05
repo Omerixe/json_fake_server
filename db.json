@@ -5,7 +5,7 @@
             "name": "Fried Egg",
             "course": "SNACK",
             "level": "EASY",
-            "img": "",
+            "imgSrc": "",
             "ingredients": [
                 {
                     "name": "Egg",
@@ -25,7 +25,7 @@
             "name": "Muffin",
             "course": "DESSERT",
             "level": "MEDIUM",
-            "img": "",
+            "imgSrc": "",
             "ingredients": [],
             "steps": []
         },
@@ -34,7 +34,7 @@
             "name": "Pizza",
             "course": "MAIN",
             "level": "MEDIUM",
-            "img": "",
+            "imgSrc": "",
             "ingredients": [],
             "steps": []
         },
@@ -43,7 +43,7 @@
             "name": "Cocoa Banana Bread",
             "course": "DESSERT",
             "level": "MEDIUM",
-            "img": "https://raw.githubusercontent.com/Omnimolecule/json_fake_server/master/img/banana_bread_1.jpg",
+            "imgSrc": "https://raw.githubusercontent.com/Omnimolecule/json_fake_server/master/img/banana_bread_1.jpg",
             "ingredients": [
                 {
                     "name": "Butter",
