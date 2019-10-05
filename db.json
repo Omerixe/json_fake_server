@@ -2,7 +2,7 @@
    "recipes": [
         {
             "id": 1,
-            "name": "Spiegelei",
+            "name": "Fried Egg",
             "course": "SNACK",
             "level": "EASY",
             "img": "",
@@ -37,6 +37,89 @@
             "img": "",
             "ingredients": [],
             "steps": []
+        },
+        {
+            "id": 4,
+            "name": "Cocoa Banana Bread",
+            "course": "DESSERT",
+            "level": "MEDIUM",
+            "img": "",
+            "ingredients": [
+                {
+                    "name": "Butter",
+                    "amount": 86,
+                    "unit": "GRAM"
+                }, 
+                {
+                    "name": "Brown Sugar",
+                    "amount": 150,
+                    "unit": "GRAM"
+                },
+                {
+                    "name": "Egg",
+                    "amount": 2,
+                    "unit": "PIECE"
+                },
+                {
+                    "name": "Flour",
+                    "amount": 167,
+                    "unit": "GRAM"
+                },
+                {
+                    "name": "Cocoa Powder",
+                    "amount": 31,
+                    "unit": "GRAM"
+                },
+                {
+                    "name": "Salt",
+                    "amount": 1,
+                    "unit": "TEASPOON"
+                },
+                {
+                    "name": "Baking Powder",
+                    "amount": 0.75,
+                    "unit": "TEASPOON"
+                },
+                {
+                    "name": "Baking Soda",
+                    "amount": 0.25,
+                    "unit": "TEASPOON"
+                },
+                {
+                    "name": "Mashed Banana",
+                    "amount": 3,
+                    "unit": "PIECE"
+                },
+                {
+                    "name": "Sour Cream",
+                    "amount": 95,
+                    "unit": "GRAM"
+                },
+                {
+                    "name": "Vanilla Extract",
+                    "amount": 6,
+                    "unit": "GRAM"
+                },
+                {
+                    "name": "Chocolate Morsels",
+                    "amount": 85,
+                    "unit": "GRAM"
+                }
+            ],
+            "steps": [
+                {
+                    "name":"Preheat oven to 170°C. Butter and flour (or use baking paper) 25cm loaf pan."
+                },
+                {
+                    "name":"In the bowl of a stand mixer fitted with the paddle attachment, beat butter and brown sugar at medium speed until fluffy, 3 to 4 minutes, stopping to scrape sides of bowl. Add eggs, one at a time, beating well after each addition."
+                },
+                {
+                    "name":"In a medium bowl, whisk together flour, black cocoa, salt, baking powder, and baking soda. In a small bowl, whisk together mashed banana, sour cream, and vanilla. With mixer on low speed, add banana mixture to butter mixture, beating until combined. Gradually add flour mixture, beating just until combined. Fold in chocolate morsels. Spoon batter into prepared pan, smoothing top with an offset spatula."
+                },
+                {
+                    "name":"Bake until a wooden pick inserted in center comes out clean, about 1 hour and 10 minutes. Let cool in pan for 10 minutes. Remove from pan, and let cool completely on a wire rack."
+                }
+            ]
         }
    ] 
 
