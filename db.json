@@ -25,7 +25,7 @@
             "name": "Muffin",
             "course": "DESSERT",
             "level": "MEDIUM",
-            "imgSrc": "",
+            "imgSrc": "https://raw.githubusercontent.com/Omnimolecule/json_fake_server/master/img/muffin_1.jpg",
             "ingredients": [],
             "steps": []
         },
@@ -34,7 +34,7 @@
             "name": "Pizza",
             "course": "MAIN",
             "level": "MEDIUM",
-            "imgSrc": "",
+            "imgSrc": "https://raw.githubusercontent.com/Omnimolecule/json_fake_server/master/img/pizza_1.jpg",
             "ingredients": [],
             "steps": []
         },
